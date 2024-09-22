@@ -1,0 +1,5 @@
+Error processing row 278 (Domain: argentwm.co.uk, Company: Argent Wealth Management Ltd): time data '2024-08-28T22:53:58Z' does not match format '%Y-%m-%dT%H:%M:%S.%fZ'
+Error processing row 1370 (Domain: confidowealth.com, Company: Zain Nijabat): time data '2024-08-28T21:27:27Z' does not match format '%Y-%m-%dT%H:%M:%S.%fZ'
+Error processing row 1568 (Domain: bolamrose.co.uk, Company: BolamRose Limited): time data '2024-08-28T21:04:12Z' does not match format '%Y-%m-%dT%H:%M:%S.%fZ'
+Error processing row 2467 (Domain: japplebee.co.uk, Company: Jonathan Applebee): time data '2024-08-28T23:30:17Z' does not match format '%Y-%m-%dT%H:%M:%S.%fZ'
+Error processing row 3072 (Domain: victoriaprivateinvestment.com, Company: Victoria Capital (UK) Ltd): time data '2024-08-15T07:49:29Z' does not match format '%Y-%m-%dT%H:%M:%S.%fZ'
